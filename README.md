@@ -1,7 +1,7 @@
 This is a simple youtube clone project
 
 ## How to View the Project
-Click on [text.html] to open the project.
+Click on 'text.html' in 'youtube.html' folder to view the project.
 
 ## Features
 - Video thumbnails & playback
